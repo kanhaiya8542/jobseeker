@@ -11,8 +11,10 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.11.8",
     "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
     "axios": "^0.21.1",
     "expo": "~40.0.0",
+    "expo-app-loading": "^1.0.1",
     "expo-status-bar": "~1.0.3",
     "latlng-to-zip": "0.0.2",
     "lodash": "^4.17.21",
@@ -29,7 +31,7 @@
     "react-redux": "^7.2.3",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "undefined": "redux-persist/constants"
+    "expo-facebook": "~9.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
